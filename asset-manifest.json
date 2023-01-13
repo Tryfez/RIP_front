@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RIP_front/static/css/main.359db5a3.css",
+    "main.js": "/RIP_front/static/js/main.aa6bf0a1.js",
+    "static/js/787.884e199e.chunk.js": "/RIP_front/static/js/787.884e199e.chunk.js",
+    "index.html": "/RIP_front/index.html",
+    "main.359db5a3.css.map": "/RIP_front/static/css/main.359db5a3.css.map",
+    "main.aa6bf0a1.js.map": "/RIP_front/static/js/main.aa6bf0a1.js.map",
+    "787.884e199e.chunk.js.map": "/RIP_front/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359db5a3.css",
+    "static/js/main.aa6bf0a1.js"
+  ]
+}
